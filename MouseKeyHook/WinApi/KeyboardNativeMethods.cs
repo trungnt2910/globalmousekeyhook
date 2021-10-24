@@ -5,7 +5,7 @@
 using System;
 using System.Runtime.InteropServices;
 using System.Text;
-using System.Windows.Forms;
+using Gma.System.MouseKeyHook.WinForms;
 using Gma.System.MouseKeyHook.Implementation;
 
 namespace Gma.System.MouseKeyHook.WinApi

@@ -4,7 +4,7 @@
 
 using System;
 using System.Collections.Generic;
-using System.Windows.Forms;
+using Gma.System.MouseKeyHook.WinForms;
 using Gma.System.MouseKeyHook.Implementation;
 
 namespace Gma.System.MouseKeyHook.HotKeys
